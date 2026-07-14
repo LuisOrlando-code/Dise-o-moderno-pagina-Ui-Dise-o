@@ -53,7 +53,7 @@ cd login-card
 
 ## 📄 Licencia
 
-Luis Orlando Flores Canizales
+Luis Orlando 
 
 ## 🌐 Pagina
 https://dise-o-moderno-pagina-ui-dise-o.vercel.app/
