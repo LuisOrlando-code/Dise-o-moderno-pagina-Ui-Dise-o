@@ -56,6 +56,7 @@ cd login-card
 Luis Orlando Flores Canizales
 
 ## 🌐 Pagina
+https://dise-o-moderno-pagina-ui-dise-o.vercel.app/
 
-## 📷 FOto
+## 📷 Foto
 ![Foto del proyecto](assets/proyecto.png)
