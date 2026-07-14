@@ -44,16 +44,6 @@ cd login-card
 - **Tipografía**: cambia el `font-family` en el selector `body` para usar otra fuente importada.
 - **Imagen de fondo**: reemplaza `imagen.svg` por cualquier imagen y ajusta `background-size`/`background-position` según sea necesario.
 
-## 📝 Pendientes / mejoras futuras
-
-- [ ] Agregar validación de formulario (JS)
-- [ ] Conectar con backend/autenticación real
-- [ ] Agregar modo oscuro
-- [ ] Mejorar accesibilidad (labels, `aria-*`)
-
-## 📄 Licencia
-
-Luis Orlando 
 
 ## 🌐 Pagina
 https://dise-o-moderno-pagina-ui-dise-o.vercel.app/
